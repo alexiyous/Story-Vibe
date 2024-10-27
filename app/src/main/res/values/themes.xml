@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryVibe" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/vivid_teal</item>
+        <item name="popupMenuBackground">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.StoryVibe" parent="Base.Theme.StoryVibe" />
+
+    <style name="SplashTheme" parent="Base.Theme.StoryVibe">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+</resources>

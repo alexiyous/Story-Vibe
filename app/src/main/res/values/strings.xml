@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Story Vibe</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Ready to dive into a world of stories? Explore, create, and share your tales with StoryVibe!</string>
+    <string name="title_welcome_page">Welcome to StoryVibe!</string>
+    <string name="title_signup_page">Let\'s get you started. Fill in your details below!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your credentials to begin your journey</string>
+    <string name="title_login_page">Excited to unleash your storytelling skills?</string>
+    <string name="name">Full Name</string>
+    <string name="message_main_page">Happy Storytelling with StoryVibe.</string>
+    <string name="greeting">Hey %1$s,</string>
+    <string name="logout">Sign Out</string>
+
+    <string name="password_error">Password must not be less than 8 characters</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="tell_your_stories">Tell your Stories</string>
+    <string name="upload_your_story">Upload Your Story</string>
+    <string name="log_out">Log out</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry Again</string>
+</resources>

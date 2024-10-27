@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="vivid_teal">#009688</color>
+    <color name="placeholder">#6FB6B6B6</color>
+    <color name="vivid_teal_dark">#00796B</color>
+    //Background color for the app with dark vibe
+    <color name="dark_background">#FF121212</color>
+    <color name="light_vivid_teal">#FFB2DFDB</color>
+</resources>
